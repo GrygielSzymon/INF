@@ -1,4 +1,4 @@
-1.
+//1.
 #include <iostream>
 using namespace std;
 
@@ -12,7 +12,7 @@ int main() {
     return 0;
 }
 
-2.
+//2.
 #include <iostream>
 using namespace std;
 int main() {
@@ -55,7 +55,7 @@ int main() {
     return 0;
 }
 
-3.
+//3.
 #include <iostream>
 using namespace std;
 
@@ -72,7 +72,7 @@ int main() {
     return 0;
 }
 
-4.
+//4.
 #include <iostream>
 using namespace std;
 
@@ -85,13 +85,13 @@ int main() {
     return 0;
 }
 
-5.
+//5.
 
 
-6.
+//6.
 
 
-7.
+//7.
 #include <iostream>
 using namespace std;
 
@@ -107,7 +107,7 @@ int main() {
     return 0;
 }
 
-8.
+//8.
 #include <iostream>
 using namespace std;
 
